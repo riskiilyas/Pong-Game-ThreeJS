@@ -1,0 +1,11 @@
+Model Information:
+* title:	Air Hockey Items
+* source:	https://sketchfab.com/3d-models/air-hockey-items-eea0faf40cf04be6b41f42fbe6448a9f
+* author:	drlecter (https://sketchfab.com/drlecter)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Air Hockey Items" (https://sketchfab.com/3d-models/air-hockey-items-eea0faf40cf04be6b41f42fbe6448a9f) by drlecter (https://sketchfab.com/drlecter) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

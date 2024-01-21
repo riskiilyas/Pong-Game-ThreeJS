@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: linear-gradient(180deg, #74bbe7, #ffffff);
+  background-attachment: fixed;
+
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.menu-header {
+  margin-top: 100px;
+  text-align: center;
+  padding: 20px;
+
+  color: #ffffff;
+  background-color: #000000;
+}
+
+.menu {
+  text-align: center;
+}
+
+.menu-item {
+  font-size: 24px;
+  font-weight: 600;
+  padding: 10px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+a.button-text {
+  color: #000000;
+  transition: 0.25s;
+}
+
+a.button-text:hover {
+  color: #ffffff;
+}
+
+#container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+#hud {
+  margin: 0;
+  align-items: center;
+  padding-left: 16px;
+  width: 250px;
+  background-color: #303030bd;
+  color: #ffffff;
+}
+
+#containerb {
+  position: relative;
+}
+
+#button-container {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+#button-container button {
+  padding: 10px 20px;
+}

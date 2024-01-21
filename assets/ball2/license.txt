@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ball (Bola)
+* source:	https://sketchfab.com/3d-models/ball-bola-27e2c37116b44d88bf5361552905c1b4
+* author:	Cassio.Alves (https://sketchfab.com/Cassio.Alves)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ball (Bola)" (https://sketchfab.com/3d-models/ball-bola-27e2c37116b44d88bf5361552905c1b4) by Cassio.Alves (https://sketchfab.com/Cassio.Alves) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

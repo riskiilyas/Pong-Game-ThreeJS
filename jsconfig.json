@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "esnext",
+      "allowSyntheticDefaultImports": true,
+      "jsx": "react",
+      "baseUrl": "."
+    },
+    "exclude": ["node_modules"]
+}

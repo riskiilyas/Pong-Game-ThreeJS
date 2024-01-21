@@ -1,0 +1,481 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 608,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 7296,
+      "componentType": 5126,
+      "count": 608,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 608,
+      "max": [
+        0.9997445344924927,
+        0.9764782190322876
+      ],
+      "min": [
+        0.0002554386737756431,
+        0.0002554386737756431
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 2100,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 14592,
+      "componentType": 5126,
+      "count": 749,
+      "max": [
+        0.8735656142234802,
+        0.8735656142234802,
+        1.0347822904586792
+      ],
+      "min": [
+        -0.8735656142234802,
+        -0.8735656142234802,
+        -0.3953259289264679
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 23580,
+      "componentType": 5126,
+      "count": 749,
+      "max": [
+        0.9971962571144104,
+        0.9971962571144104,
+        1.0
+      ],
+      "min": [
+        -0.9971962571144104,
+        -0.9971962571144104,
+        -0.9158321619033813
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4864,
+      "componentType": 5126,
+      "count": 749,
+      "max": [
+        1.0,
+        1.0000001192092896
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 8400,
+      "componentType": 5125,
+      "count": 3438,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 32568,
+      "componentType": 5126,
+      "count": 749,
+      "max": [
+        0.8735656142234802,
+        0.8735656142234802,
+        1.0347822904586792
+      ],
+      "min": [
+        -0.8735656142234802,
+        -0.8735656142234802,
+        -0.3953259289264679
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 41556,
+      "componentType": 5126,
+      "count": 749,
+      "max": [
+        0.9971962571144104,
+        0.9971962571144104,
+        1.0
+      ],
+      "min": [
+        -0.9971962571144104,
+        -0.9971962571144104,
+        -0.9158321619033813
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 10856,
+      "componentType": 5126,
+      "count": 749,
+      "max": [
+        1.0,
+        1.0000001192092896
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 22152,
+      "componentType": 5125,
+      "count": 3438,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "drlecter (https://sketchfab.com/drlecter)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/air-hockey-items-eea0faf40cf04be6b41f42fbe6448a9f",
+      "title": "Air Hockey Items"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 35904,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16848,
+      "byteOffset": 35904,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 50544,
+      "byteOffset": 52752,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 103296,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Material.004_baseColor.png"
+    },
+    {
+      "uri": "textures/Material_baseColor.png"
+    },
+    {
+      "uri": "textures/Material.002_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Material.004",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6297637195121951
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6114710365853658,
+          0.6114710365853658,
+          0.6114710365853658,
+          1.0
+        ],
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.22122713414634146
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material.002",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.8248856707317073,
+        "roughnessFactor": 0.3824314024390244
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Cylinder_Material.004_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "PUCK_Material_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "RED STRIKER_Material.002_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "hockeyscene.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        59.39077183973196,
+        -26.154341613323712,
+        -21.21138512468521,
+        0.0,
+        -2.012391980315631,
+        40.17146565554747,
+        -55.16734253513242,
+        0.0,
+        2.8411894440250167,
+        4.109112000679655,
+        2.888510800695302,
+        0.0,
+        -165.58587646484375,
+        34.97909164428711,
+        -188.12789916992188,
+        1.0
+      ],
+      "name": "Cylinder"
+    },
+    {
+      "mesh": 0,
+      "name": "Cylinder_Material.004_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        99.97497095970316,
+        -0.01955481847794441,
+        2.236799798089753,
+        0.0,
+        2.236874455869299,
+        0.5629858755535259,
+        -99.97338602695099,
+        0.0,
+        0.006956748297685077,
+        99.99841330973497,
+        0.5632824682813786,
+        0.0,
+        -226.119140625,
+        22.187768936157227,
+        -259.62786865234375,
+        1.0
+      ],
+      "name": "PUCK"
+    },
+    {
+      "mesh": 1,
+      "name": "PUCK_Material_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        30.658760280884845,
+        -72.61302808549422,
+        -61.54176281432362,
+        0.0,
+        95.02423326992388,
+        27.0967591219133,
+        15.367571780573002,
+        0.0,
+        5.516963595179614,
+        -63.19109042720734,
+        77.30749771729757,
+        0.0,
+        -358.4528503417969,
+        61.847137451171875,
+        -281.5811767578125,
+        1.0
+      ],
+      "name": "RED STRIKER"
+    },
+    {
+      "mesh": 2,
+      "name": "RED STRIKER_Material.002_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
